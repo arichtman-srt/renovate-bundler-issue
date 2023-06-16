@@ -1,4 +1,5 @@
-renovate-bundler-issue/
+renovate*/
+
 *.gem
 *.rbc
 /.config
